@@ -84,7 +84,7 @@
 	<plugin spec="https://github.com/Paldom/UniqueDeviceID.git" source="git" />
 	<plugin spec="https://github.com/apache/cordova-plugin-statusbar.git " source="git" />
 	<preference name="StatusBarOverlaysWebView"			value="false" />
-	<preference name="StatusBarBackgroundColor" value="#000000" />
+	<preference name="StatusBarBackgroundColor" value="#264566" />
     <edit-config file="*-Info.plist" mode="overwrite" platform="ios" target="UIStatusBarHidden">
         <true />
     </edit-config>
